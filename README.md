@@ -14,10 +14,9 @@ Get the latest version from **[Releases](https://github.com/BEAMevents/BEAMppt/r
 BEAMppt isn't notarized by Apple yet, so the first time you open it macOS may block it: go to **System Settings → Privacy & Security** and click **Open Anyway**. When BEAMppt first runs, allow **Accessibility**, **Local Network** and control of PowerPoint/Keynote when asked.
 
 **Windows** (Windows 10 or 11, PowerPoint)
-- **BEAMppt-Setup-x.y.z.exe** installs BEAMppt and **updates itself automatically**. Use this one.
-- **BEAMppt-Portable-x.y.z.exe** runs without installing. It tells you when a newer version is out, but doesn't update itself.
+- **BEAMppt-Setup-x.y.z.exe** installs BEAMppt and **updates itself automatically**.
 
-The installers aren't code-signed yet, so Windows SmartScreen may warn on first launch: click **More info → Run anyway**. When Windows Firewall asks, allow BEAMppt on **Private and Public** networks so Macs, PCs and phones can reach it.
+The installer isn't code-signed yet, so Windows SmartScreen may warn on first launch: click **More info → Run anyway**. When Windows Firewall asks, allow BEAMppt on **Private and Public** networks so Macs, PCs and phones can reach it.
 
 Macs and PCs work together: they share one slide-sync group, the same phone remote, HTTP API, OSC commands and Stream Deck layout.
 
