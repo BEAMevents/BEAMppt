@@ -11,7 +11,7 @@ Get the latest version from **[Releases](https://github.com/BEAMevents/BEAMppt/r
 - **BEAMppt-x.y.z.dmg**: open it and drag BEAMppt into Applications. Use this one for a first install.
 - **BEAMppt-x.y.z-mac.zip**: the same app, used by BEAMppt to update itself.
 
-BEAMppt isn't notarized by Apple yet, so the first time you open it macOS may block it: go to **System Settings → Privacy & Security** and click **Open Anyway**. When BEAMppt first runs, allow **Accessibility**, **Local Network** and control of PowerPoint/Keynote when asked.
+BEAMppt is signed and notarized by Apple (from 1.0.37), so it opens with a normal double-click. When BEAMppt first runs, allow **Accessibility**, **Local Network** and control of PowerPoint/Keynote when asked.
 
 **Windows** (Windows 10 or 11, PowerPoint)
 - **BEAMppt-Setup-x.y.z.exe** installs BEAMppt and **updates itself automatically**.
